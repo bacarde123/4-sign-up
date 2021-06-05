@@ -12,7 +12,14 @@ main {
     float: left;
     background-color: yellow;
 }
-
+.bottom-links {
+}
+.bottom-links > a {
+    background-color: red;
+}
+.bottom-links > span {
+    background-color:blue;
+}
 .right-column {
     width: 60%;
     float: left;
